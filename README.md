@@ -2,7 +2,7 @@
 
 License: [MIT](license.md)
 
-![](.)
+![](./assets/Git-logo.svg.png)
 ---
 
 ### ***Содержание:***
